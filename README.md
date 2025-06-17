@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**Chaitanya299/Chaitanya299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hey, I'm Chaitanya
 
-Here are some ideas to get you started:
+🎯 A passionate Full-Stack Developer with a strong interest in building scalable applications, exploring DevOps tools, and delivering impactful solutions.  
+💻 I enjoy working across the stack—from crafting responsive UIs to deploying backend APIs and automating workflows.  
+🌱 Always learning: currently diving deeper into system design, cloud platforms, and open-source contributions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack
+
+#### 💻 Languages  
+`Python` `Java` `JavaScript`
+
+#### 🗃️ Databases  
+`MySQL` `PostgreSQL` `MongoDB`
+
+#### 🧠 Frameworks & Libraries  
+`Django` `Express.js` `React.js` `Next.js` `Node.js`  
+`Pandas` `NumPy` `Scikit-learn` `Matplotlib` `OpenCV`
+
+#### 🚀 DevOps & Tools  
+`Docker` `GitHub Actions` `Firebase` `Vercel` `Railway`  
+`CI/CD` `Bash` `Linux`
+
+#### 🌐 Platforms & APIs  
+`Streamlit` `Netlify` `Hugging Face` `Google Cloud` `Render` `Kaggle` `Android`
+
+#### 🧩 Others  
+`Postman` `VS Code` `Jupyter` `Git` `Shell scripting` `API Integration`
+
+---
+
+📫 **Email:** chaitanya.sai311@gmail.com  
+💼 **LinkedIn:** [https://www.linkedin.com/in/saichaitanyaparasana/](https://www.linkedin.com/in/saichaitanyaparasana/)
