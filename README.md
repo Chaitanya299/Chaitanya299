@@ -2,7 +2,7 @@
 <h3 align="center">AI + Full-Stack Developer · I build AI-powered products end to end</h3>
 
 <p align="center">
-  <a href="https://saichaitanyadev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.chaitanyaparasana.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/saichaitanyaparasana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:chaitanya.sai311@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -32,4 +32,5 @@
 ### 🤝 Work With Me
 
 Need an AI feature, an MVP, or a full product built? I take freelance projects from idea to deployment.
+🌐 [chaitanyaparasana.com](https://www.chaitanyaparasana.com): my work, and a free 30-minute call you can book
 📩 [chaitanya.sai311@gmail.com](mailto:chaitanya.sai311@gmail.com)
